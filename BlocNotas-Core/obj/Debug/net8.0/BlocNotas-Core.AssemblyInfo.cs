@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlocNotas-Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d9ce37e4fed406516cd280e8408fa873b9f306e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlocNotas-Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlocNotas-Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
